@@ -1,0 +1,2 @@
+# hska
+Repository für Hochschulzeug
